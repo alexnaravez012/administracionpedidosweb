@@ -2107,3 +2107,35 @@
         border: 1px solid rgb(194, 194, 194);
         font-size: 11px;
     }
+    
+    .margin-factor {
+        margin-left: 40px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    
+    .lupa-size {
+        width: 80px;
+        margin-top: 30px;
+    }
+    
+    .margin-factor-two {
+        margin-left: 40px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    
+    .button-search-actualice-adminorders-two {
+        border: 1px solid rgba(179, 179, 179, 0.651);
+        height: 20px;
+        background-color: white;
+        color: #4496fa;
+        border-radius: 10px;
+        cursor: pointer;
+        padding-left: 25px;
+        padding-right: 25px;
+        font-weight: 500;
+        font-size: 10.5px;
+        margin-top: 20px;
+        margin-left: 30px;
+    }
